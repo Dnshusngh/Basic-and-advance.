@@ -1,0 +1,331 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "8a451ff2",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "emty tuple \n",
+    "print emty tuole\n",
+    "int_tuple = [4 5 8 10 12 14]\n",
+    "print tuples with intergers\n",
+    "tuple = (python 4  9)\n",
+    "tuple "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "9ccaa160",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "tuple  =[p ython orderns collasection]\n",
+    "print[0]\n",
+    "print[1]\n",
+    "try\n",
+    "printtuple [5]\n",
+    "expect excrise as e:\n",
+    "    print(e)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "37b1bc36",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "(1, 10)\n",
+      "8\n",
+      "6\n"
+     ]
+    }
+   ],
+   "source": [
+    "excent_tuple = (1, 10)\n",
+    "excent_tuple_as_e = excent_tuple\n",
+    "\n",
+    "print(excent_tuple_as_e)\n",
+    "\n",
+    "interest_tuple = [(4, 6, 2, 8), (6, 2, 6, 7)]\n",
+    "\n",
+    "print(interest_tuple[0][3])\n",
+    "print(interest_tuple[1][2])\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "8451f3c8",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "tuple [python tuple orders collastion ]\n",
+    "print element at index tupe tuple[1]\n",
+    "print element between 4  and 2 are \n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "eecad111",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "scling tuple how to progerms"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "c1dce3cf",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "print  = entrrer tiuple_tuples"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "c842430b",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "indexing precitecing"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "6311fb12",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "tuple[ pytho tuple ordernall immtable callotion object]\n",
+    "try \n",
+    "del tuple [3]\n",
+    "printtuple\n",
+    "expacter excange as e \n",
+    "try print (tuple)\n",
+    "except excationsa e\n",
+    "print"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "6784959d",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "tuple_[pyhthon tuples]\n",
+    "print ornginal tuples \n",
+    "tuple = tuple_*3\n",
+    "print new tuples is \"tuples\")i"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "c936b3f7",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "creatin tuples \n",
+    "print cont count \n",
+    "print count of java. in 12res\n",
+    "print 12  count of java "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "fc56101a",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "tuple _ data \n",
+    "res +tuplle _data index of 3 \n",
+    "print tuple \n",
+    "res = tuple data index 3 4 \n",
+    "print first occorren of 1 after index ress"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "fd500f60",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "print thuple in tuple \n",
+    "print tuple \n",
+    "print immuaterl\n",
+    "print items its not grt ]\n",
+    "in tuple not in tuple "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "334a287c",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "tuples (python tuples orderd immuatabe ) \n",
+    "for item  in tuple_\n",
+    "print (items)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "156586aa",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "tuples python  orders immuatabel\n",
+    "prin t tuple +(4 5 6)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "41c3e8fe",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Days: {'Monday', 'Friday', 'Thursday', 'Tuesday', 'Wednesday'}\n",
+      "Type of 'Monday': <class 'str'>\n",
+      "Type of 'Friday': <class 'str'>\n",
+      "Type of 'Thursday': <class 'str'>\n",
+      "Type of 'Tuesday': <class 'str'>\n",
+      "Type of 'Wednesday': <class 'str'>\n"
+     ]
+    },
+    {
+     "ename": "TypeError",
+     "evalue": "unhashable type: 'set'",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[1;31m---------------------------------------------------------------------------\u001b[0m",
+      "\u001b[1;31mTypeError\u001b[0m                                 Traceback (most recent call last)",
+      "Cell \u001b[1;32mIn[3], line 5\u001b[0m\n\u001b[0;32m      3\u001b[0m \u001b[38;5;28;01mfor\u001b[39;00m day \u001b[38;5;129;01min\u001b[39;00m days:\n\u001b[0;32m      4\u001b[0m     \u001b[38;5;28mprint\u001b[39m(\u001b[38;5;124mf\u001b[39m\u001b[38;5;124m\"\u001b[39m\u001b[38;5;124mType of \u001b[39m\u001b[38;5;124m'\u001b[39m\u001b[38;5;132;01m{\u001b[39;00mday\u001b[38;5;132;01m}\u001b[39;00m\u001b[38;5;124m'\u001b[39m\u001b[38;5;124m: \u001b[39m\u001b[38;5;132;01m{\u001b[39;00m\u001b[38;5;28mtype\u001b[39m(day)\u001b[38;5;132;01m}\u001b[39;00m\u001b[38;5;124m\"\u001b[39m)\n\u001b[1;32m----> 5\u001b[0m set_of_sets \u001b[38;5;241m=\u001b[39m {\u001b[38;5;28mset\u001b[39m([\u001b[38;5;241m1\u001b[39m, \u001b[38;5;241m2\u001b[39m, \u001b[38;5;241m3\u001b[39m]), \u001b[38;5;28mset\u001b[39m([\u001b[38;5;241m4\u001b[39m, \u001b[38;5;241m5\u001b[39m, \u001b[38;5;241m6\u001b[39m]), \u001b[38;5;28mset\u001b[39m([\u001b[38;5;241m7\u001b[39m, \u001b[38;5;241m8\u001b[39m, \u001b[38;5;241m9\u001b[39m])}\n\u001b[0;32m      6\u001b[0m \u001b[38;5;28mprint\u001b[39m(\u001b[38;5;124m\"\u001b[39m\u001b[38;5;124mSet of Sets:\u001b[39m\u001b[38;5;124m\"\u001b[39m, set_of_sets)\n\u001b[0;32m      7\u001b[0m \u001b[38;5;28;01mfor\u001b[39;00m s \u001b[38;5;129;01min\u001b[39;00m set_of_sets:\n",
+      "\u001b[1;31mTypeError\u001b[0m: unhashable type: 'set'"
+     ]
+    }
+   ],
+   "source": [
+    "days = {'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'}\n",
+    "print(\"Days:\", days)\n",
+    "for day in days:\n",
+    "    print(f\"Type of '{day}': {type(day)}\")\n",
+    "set_of_sets = {set([1, 2, 3]), set([4, 5, 6]), set([7, 8, 9])}\n",
+    "print(\"Set of Sets:\", set_of_sets)\n",
+    "for s in set_of_sets:\n",
+    "    print(f\"Type of {s}: {type(s)}\")\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "fab5fab0",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "print monthsadd  \n",
+    "print adding months to the set \n",
+    "print month add \\\n",
+    "print months \n",
+    "print for looping  for in months \n",
+    "print"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "8b394755",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "months =  set [jan feb april march augs]\n",
+    "print "
+   ]
+  },
+  {
+   "cell_type": "raw",
+   "id": "a565fab9",
+   "metadata": {},
+   "source": [
+    "discard remove \n",
+    "print month "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "7eba3e3c",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "months pop \n",
+    "print "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "22ee44e8",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "6cd03e20",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "e759e19c",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.11.4"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
